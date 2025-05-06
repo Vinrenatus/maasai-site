@@ -1,4 +1,4 @@
-# 📂 [Project Name] · [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Release](https://img.shields.io/github/v/release/vincent-username/repo-name)](https://github.com/vincent-username/repo-name/releases)
+# 📂 [Sustainable Maasai Legcay] · [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Release](https://img.shields.io/github/v/release/vincent-username/repo-name)](https://github.com/vincent-username/repo-name/releases)
 
 ![Project Banner](assets/banner.png) <!-- Replace with your banner path -->
 
