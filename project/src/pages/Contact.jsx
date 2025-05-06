@@ -46,18 +46,6 @@ function Contact() {
       image: ceo,
       description: 'Community Manager',
       message: 'Connecting cultures and communities.'
-    },
-    { 
-      name: 'Vincent',
-      image: ceo2,
-      description: 'Full-stack Developer',
-      message: 'Innovation via technology and online'
-    },
-    {
-      name: 'Raechel',
-      image:ceo,
-      description: 'Human Resource',
-      message: 'Service through community buidling'
     }
   ];
 
